@@ -1,4 +1,5 @@
 ## Hi, I’m Aniket 👋  
+✨ Aspiring Software Engineer | Android & Backend | AI Applications
 
 Computer Science undergraduate focused on building real-world applications using mobile development, backend APIs, and applied AI concepts.
 
